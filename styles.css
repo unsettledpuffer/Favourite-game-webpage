@@ -1,6 +1,31 @@
-h1{max-width: max-content;
-background-color: rgba(0, 0, 0, 0.295)
-}
+
 a{max-width: max-content;
 color: rgba(218, 60, 60, 0.836)
+}
+
+#title {max-width: max-content;
+background-color: rgba(25, 95, 141, 0.507)
+}
+
+body {background-color:rgba(0, 0, 0, 0.199)
+}
+
+#navbar{
+    background-color: #00000050;
+    color:white;
+    padding: 20px;
+    margin-bottom:  5px;
+    font-size:larger;
+
+}
+
+#navbar a {
+    border:1px solid white;
+    padding: 5px; 
+    text-decoration: none;
+    display: inline-block;
+    background-color: rgba(25, 95, 141, 0.507);
+    border-radius: 5px;
+    color: rgb(165, 234, 255);
+
 }
