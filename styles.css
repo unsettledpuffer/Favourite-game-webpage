@@ -1,10 +1,13 @@
 
+
 a{max-width: max-content;
 color: rgba(218, 60, 60, 0.836)
 }
 
-#title {max-width: max-content;
-background-color: rgba(25, 95, 141, 0.507)
+#title {
+
+background-color: rgba(25, 95, 141, 0.507);
+text-align:center;
 }
 
 body {background-color:rgba(0, 0, 0, 0.199)
@@ -28,4 +31,7 @@ body {background-color:rgba(0, 0, 0, 0.199)
     border-radius: 5px;
     color: rgb(165, 234, 255);
 
+}
+#hover:hover{max-width: max-content;
+color:aquamarine
 }
